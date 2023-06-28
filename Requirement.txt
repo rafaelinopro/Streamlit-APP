@@ -1,4 +1,5 @@
 pandas
-numpyseaborn
+numpy
+seaborn
 streamlit
 plotly-express
