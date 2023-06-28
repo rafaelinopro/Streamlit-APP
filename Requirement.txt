@@ -1,0 +1,4 @@
+pandas
+numpyseaborn
+streamlit
+plotly-express
